@@ -175,7 +175,7 @@ async def main():
 --------------------
 | Chatbot Started! |
 --------------------
-|   Yoga Pranata   |
+|   XFlickz   |
 --------------------
 """
     )
